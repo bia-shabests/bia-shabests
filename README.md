@@ -66,7 +66,7 @@
 
 ### 📌 Projetos iniciados
 - [Estudos LINQ](https://github.com/deadkoda/EstudosLinq) : aprofundando estudos sobre manipulação usando LINQ
-- [AplicacaoProjeto](https://github.com/deadkoda/AplicacaoProjeto/tree/categoria) : Projeto focado em estudos de **.NET 8**, estruturado com separação de camadas, uso de **SQLite** e LINQ para consultas eficientes.
+- [AplicacaoProjeto](https://github.com/deadkoda/AplicacaoProjeto/tree/categoria) : Projeto focado em estudos de **.NET 8**, estruturado com design patterns, clean code e clean architecture, utilização de procedures com SQLServer e automação de testes com xUnit e MSTest.
 
 
 ---
