@@ -1,4 +1,4 @@
-<h2 align="center">Oi, eu sou a Bia/Koda 👋</h2>
+<h2 align="center">Oi, eu sou a Bia 👋</h2>
 
 <p align="center" style="text-decoration:none;">
   <a href="https://learn.microsoft.com/dotnet/" target="_blank" rel="noopener noreferrer">
